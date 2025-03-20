@@ -8,6 +8,6 @@ class CustomerApplicationTests {
 
     @Test
     void contextLoads() {
+        // Tests that application context loads successfully
     }
-
 }
