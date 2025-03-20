@@ -1,3 +1,5 @@
+package vn.com.msb.model;
+
 public class Greeting {
     private Long id;
     private String message;
